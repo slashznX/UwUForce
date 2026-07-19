@@ -55,8 +55,8 @@ WAIFU_FILES = [
     "danganronpa-trigger-happy-havoc-desktop-wallpaper-anime-cute-girl-be9a0be822c44b3e5f11acca1109f537.png",
     "kashiwazaki-deviantart-haganai-anime-quiet-girl-e594b796e3385ff299acb51a3b4b4ee8.png",
     "nekopara-chocolate-neko-works-anime-catgirl-vanilla-65acdf9d7b8748c148f4a807beba93eb.png",
+    "catgirl-anime-manga-cat-5b251b20bbdb5ad6533b7a68ba2954ad.png",
 ]
-FALLBACK_WAIFU = "catgirl-anime-manga-cat-5b251b20bbdb5ad6533b7a68ba2954ad.png"
 
 LANGS = {
     "English": {
